@@ -25,11 +25,3 @@ Consulta y análisis	SQL
 Business Intelligence	Power BI Desktop, Service y Mobile
 Integración de datos	Formación en Informatica Cloud Data Integration
 Base de negocio	Administración y Dirección de Empresas
-
-
-Lo que me mueve
-Seguir creciendo en la intersección entre negocio, analítica y tecnología, con especial interés en la calidad del dato y en soluciones que tengan una aplicación práctica.
-
-Mi participación en DataHub reforzó ese interés: comprender la arquitectura y la transformación de los datos permite ver con más claridad su impacto en las decisiones de negocio.
-Conectamos
-Puedes encontrarme en LinkedIn para hablar de datos, Business Intelligence y tecnología aplicada al negocio.
