@@ -1,16 +1,35 @@
-## Este es mi primer commit ⚡
+<h1 align="center">Hola, soy Joaquín Caselles 👋</h1>
 
-<!--
-**joacasega/joacasega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Datos · Business Intelligence · Visión de negocio</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaquincaselles/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mí
+Soy graduado en Administración y Dirección de Empresas y mi trayectoria me ha llevado del área de negocio al mundo de los datos en Baleària.
+
+Me interesa conectar ambos ámbitos: entender qué necesita el negocio, cómo se construye la información que utiliza y cómo convertirla en decisiones útiles.
+
+Mi enfoque parte de una idea sencilla: un análisis aporta valor cuando ayuda a resolver una pregunta real.
+Mi foco
+- Análisis de datos: explorar información, contrastar resultados y entender qué hay detrás de cada indicador.
+- Business Intelligence: transformar necesidades de negocio en métricas y visualizaciones claras.
+- Integración y calidad del dato: profundizar en el recorrido de la información, desde su origen hasta su uso.
+- Mejora de procesos: identificar tareas que pueden simplificarse mediante datos y automatización.
+Herramientas y aprendizaje
+Área	Herramientas y formación
+Consulta y análisis	SQL
+Business Intelligence	Power BI Desktop, Service y Mobile
+Integración de datos	Formación en Informatica Cloud Data Integration
+Base de negocio	Administración y Dirección de Empresas
+
+
+Lo que me mueve
+Seguir creciendo en la intersección entre negocio, analítica y tecnología, con especial interés en la calidad del dato y en soluciones que tengan una aplicación práctica.
+
+Mi participación en DataHub reforzó ese interés: comprender la arquitectura y la transformación de los datos permite ver con más claridad su impacto en las decisiones de negocio.
+Conectamos
+Puedes encontrarme en LinkedIn para hablar de datos, Business Intelligence y tecnología aplicada al negocio.
